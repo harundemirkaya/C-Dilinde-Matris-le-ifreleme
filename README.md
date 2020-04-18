@@ -1,2 +1,2 @@
-# <h1>ss</h1>
-Lineer Cebir dersimin ödevi olan C dilinde verilen kelimenin matris aracılığı ile şifrelemesini yapan konsol uygulaması
+# <h1>C DİLİNDE MATRİS ARACILIĞI İLE ŞİFRELEME YAPAN KONSOL UYGULAMASI</h1>
+<h2>Çalışma Mantığı</h2>
